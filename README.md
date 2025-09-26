@@ -24,9 +24,9 @@ PostgreSQL digunakan sebagai database penyimpanan.
 JDBC (Java Database Connectivity) digunakan untuk menghubungkan Java dengan PostgreSQL melalui class Connection, Statement, dan PreparedStatement.  
 
 5.	CRUD  
-1.	Create (Insert) → menambah data ke database.  
-2.	Read (Select) → membaca data dari database dan ditampilkan ke JTable.  
-3.	Update → mengubah data tertentu berdasarkan ID.  
-4.	Delete → menghapus data tertentu berdasarkan ID.  
+- Create (Insert) → menambah data ke database.  
+- Read (Select) → membaca data dari database dan ditampilkan ke JTable.  
+- Update → mengubah data tertentu berdasarkan ID.  
+- Delete → menghapus data tertentu berdasarkan ID.  
 
 
